@@ -1,4 +1,3 @@
-// 01_sparse_matrix/main.c
 #include <stdio.h>
 
 #define MAX 50
