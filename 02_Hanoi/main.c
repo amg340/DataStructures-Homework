@@ -1,4 +1,3 @@
-// 02_hanoi/main.c
 #include <stdio.h>
 
 long long moves = 0;
