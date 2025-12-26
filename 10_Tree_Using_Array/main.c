@@ -1,4 +1,3 @@
-// 10_tree_from_array/main.c
 #include <stdio.h>
 #include <stdlib.h>
 
