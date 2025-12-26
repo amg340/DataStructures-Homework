@@ -1,5 +1,5 @@
-ad soyad: MUHAMMED ALALI
-öğrenci no : 2010213567
-ders : Data Structures
-Bölüm : Bilgisayar Mühendisliği ٪100
-üniversite: Karabük University
+Name: MUHAMMED ALALI
+Student ID: 2010213567
+Course: Data Structures
+Department: Computer Engineering
+University: Karabük University
